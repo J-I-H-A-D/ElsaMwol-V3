@@ -28,7 +28,7 @@ class StringSession {
     }
 
     createStringSession(dict) {
-        return 'Elsa:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'ElsaMwol:::' + Buffer.from(JSON.stringify(dict)).toString('base64');
     }
 }
 
