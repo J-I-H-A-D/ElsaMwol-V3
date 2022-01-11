@@ -43,7 +43,7 @@ if (Config.WORKTYPE == 'private') {
     
 	    memeMaker({
             image: location,         
-            outfile: 'Julie-meme.png',
+            outfile: 'Elsa-meme.png',
             topText: topText,
             bottomText: bottomText,
         }, async function(err) {
@@ -82,7 +82,7 @@ else if (Config.WORKTYPE == 'public') {
     
 	    memeMaker({
             image: location,         
-            outfile: 'plk-pinky.png',
+            outfile: 'ElsaMwol3.png',
             topText: topText,
             bottomText: bottomText,
 	    fontSize: 150, 	
